@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Animatronic Eyes</title>
+  <title>Animatronic Eyes with Smile Detection</title>
   <style>
     body {
       margin: 0;
@@ -40,7 +39,9 @@
 </head>
 <body>
   <video id="webcam" autoplay muted playsinline></video>
-  <div id="statusBox">Initializing...</div>
+  <div id="statusBox">Loading face-api models...</div>
+
+  <!-- Do NOT include face-api.js here, it's handled via npm -->
   <script type="module" src="/src/main.js"></script>
 </body>
 </html>

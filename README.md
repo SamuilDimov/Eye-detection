@@ -5,8 +5,15 @@ This project uses **Three.js** and **face-api.js** to animate a pair of floating
 When a person smiles:
 
 * The eyes open wider 👁️
+
 * The irises glow red 🔴
+
+
 * Age and gender are estimated and displayed 🧠
+ <img width="843" alt="image" src="https://github.com/user-attachments/assets/7e864f9d-3f74-4f29-9e24-376ae99ccc62" />
+
+
+  <img width="853" alt="image" src="https://github.com/user-attachments/assets/8724105e-fb90-4e4a-852b-7ae8344b5934" />
 
 ## 🧰 Technologies Used
 
